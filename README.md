@@ -1,3 +1,3 @@
 # plot with R and ggplot2
 
-![Screenshot](iris.png)
+![Screenshot](1.png)
